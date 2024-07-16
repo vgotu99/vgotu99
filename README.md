@@ -22,7 +22,7 @@ http://www.jobability.co.kr 도메인을 연결했습니다.<br/><br/>
 <a href="https://twitter.com/leeaebon" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>&nbsp;
-#### :책:기술스택:책:
+#### 📚 기술스택 📚
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7Df1E?style=flat&logo=JavaScript&logoColor=white"/>
